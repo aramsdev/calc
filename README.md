@@ -13,4 +13,7 @@ Este proyecto contiene una calculadora simple en Python que realiza las siguient
 ## Cómo ejecutar el proyecto
 1. Clona este repositorio:
    ```bash
-   git clone git@github.com:aramsdev/calculadora.git
+   git@github.com:aramsdev/calc.git
+
+2. Ve a la carpeta creada con cd <carpeta>
+3. Ejecuta python3 main.py
